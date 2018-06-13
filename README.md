@@ -10,3 +10,7 @@ implementation 'com.fanwe.android:adapter:+'
 implementation 'com.fanwe.android:selectmanager:+'
 implementation 'com.android.support:recyclerview-v7:+'
 ```
+
+[adapter](https://github.com/zj565061763/adapter)
+<br>
+[selectmanager](https://github.com/zj565061763/selectmanager)
