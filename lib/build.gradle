@@ -23,7 +23,7 @@ android {
 }
 
 dependencies {
-    compileOnly 'com.android.support:recyclerview-v7:27.+'
+    compileOnly 'com.android.support:recyclerview-v7:+'
     compileOnly 'com.fanwe.android:adapter:+'
     compileOnly 'com.fanwe.android:selectmanager:+'
 }

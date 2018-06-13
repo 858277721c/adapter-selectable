@@ -8,5 +8,5 @@ implementation 'com.fanwe.android:adapter-selectable:1.0.2'
 // 依赖以下库
 implementation 'com.fanwe.android:adapter:+'
 implementation 'com.fanwe.android:selectmanager:+'
-implementation 'com.android.support:recyclerview-v7:27.+'
+implementation 'com.android.support:recyclerview-v7:+'
 ```
