@@ -1,5 +1,5 @@
 # About
-[adapter](https://github.com/zj565061763/adapter)和[selectmanager](https://github.com/zj565061763/selectmanager)的组合
+基于[adapter](https://github.com/zj565061763/adapter)和[selectmanager](https://github.com/zj565061763/selectmanager)扩展的支持单选多选的adapter
 
 # Gradle
 ```
