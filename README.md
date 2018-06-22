@@ -5,6 +5,7 @@
 [![](https://jitpack.io/v/zj565061763/adapter-selectable.svg)](https://jitpack.io/#zj565061763/adapter-selectable)
 <br>
 本库需要依赖以下库:
+<br>
 [adapter](https://github.com/zj565061763/adapter)
 <br>
 [selectmanager](https://github.com/zj565061763/selectmanager)
