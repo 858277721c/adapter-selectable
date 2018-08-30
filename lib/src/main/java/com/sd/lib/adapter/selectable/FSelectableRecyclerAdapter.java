@@ -1,4 +1,4 @@
-package com.fanwe.lib.adapter.selectable;
+package com.sd.lib.adapter.selectable;
 
 import android.content.Context;
 
