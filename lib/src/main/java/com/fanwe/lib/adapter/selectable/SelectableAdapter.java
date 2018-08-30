@@ -1,6 +1,6 @@
 package com.fanwe.lib.adapter.selectable;
 
-import com.fanwe.lib.selectmanager.SelectManager;
+import com.sd.lib.selectmanager.SelectManager;
 
 public interface SelectableAdapter<T>
 {

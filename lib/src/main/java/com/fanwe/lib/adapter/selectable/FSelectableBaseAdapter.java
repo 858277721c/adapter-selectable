@@ -2,8 +2,9 @@ package com.fanwe.lib.adapter.selectable;
 
 import android.content.Context;
 
-import com.fanwe.lib.adapter.FBaseAdapter;
-import com.fanwe.lib.selectmanager.SelectManager;
+import com.sd.lib.adapter.FBaseAdapter;
+import com.sd.lib.selectmanager.SelectManager;
+
 
 public abstract class FSelectableBaseAdapter<T> extends FBaseAdapter<T> implements SelectableAdapter<T>
 {

@@ -1,8 +1,8 @@
 package com.fanwe.lib.adapter.selectable;
 
-import com.fanwe.lib.adapter.Adapter;
-import com.fanwe.lib.adapter.data.DataHolder;
-import com.fanwe.lib.selectmanager.FSelectManager;
+import com.sd.lib.adapter.Adapter;
+import com.sd.lib.adapter.data.DataHolder;
+import com.sd.lib.selectmanager.FSelectManager;
 
 import java.util.List;
 

@@ -11,4 +11,6 @@
 [selectmanager](https://github.com/zj565061763/selectmanager)
 ```
 implementation 'com.android.support:recyclerview-v7:+'
+implementation 'com.github.zj565061763:adapter:[1.1.0,)'
+implementation 'com.github.zj565061763:selectmanager:[1.1.0,)'
 ```

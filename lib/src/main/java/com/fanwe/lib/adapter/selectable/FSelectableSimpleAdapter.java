@@ -2,8 +2,8 @@ package com.fanwe.lib.adapter.selectable;
 
 import android.content.Context;
 
-import com.fanwe.lib.adapter.FSimpleAdapter;
-import com.fanwe.lib.selectmanager.SelectManager;
+import com.sd.lib.adapter.FSimpleAdapter;
+import com.sd.lib.selectmanager.SelectManager;
 
 public abstract class FSelectableSimpleAdapter<T> extends FSimpleAdapter<T> implements SelectableAdapter<T>
 {
