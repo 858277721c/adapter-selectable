@@ -21,9 +21,6 @@ public class AdapterSelectManager<T> extends FSelectManager<T> implements DataHo
     {
         super.onSelectedChanged(selected, item);
 
-        if (!(item instanceof Selectable))
-            throw new RuntimeException("item must be instance of SelectManager.Selectable");
-
         final int index = mAdapter.getDataHolder().indexOf(item);
         mAdapter.notifyItemViewChanged(index);
     }
