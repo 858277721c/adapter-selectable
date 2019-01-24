@@ -1,5 +1,5 @@
 # Deprecated
-这个库已经被废弃，可以直接使用类：![AdapterSelectManager](https://github.com/zj565061763/adapter-selectable/blob/master/lib/src/main/java/com/sd/lib/adapter/selectable/AdapterSelectManager.java)
+这个库已经被废弃，可以直接使用类：[AdapterSelectManager](https://github.com/zj565061763/adapter-selectable/blob/master/lib/src/main/java/com/sd/lib/adapter/selectable/AdapterSelectManager.java)
 
 # About
 支持单选多选的adapter
